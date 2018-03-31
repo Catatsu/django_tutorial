@@ -22,6 +22,7 @@ media
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+.idea
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
@@ -203,6 +204,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Cache
+__pycache__
 
 # Spyder project settings
 .spyderproject
